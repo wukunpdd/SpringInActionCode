@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode_main.iml" group="SpringInActionCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode_test.iml" group="SpringInActionCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig.iml" group="bean-autoconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_main.iml" group="bean-autoconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_test.iml" group="bean-autoconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig.iml" group="bean-javaconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" group="bean-javaconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" group="bean-javaconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" group="bean-xmlconfig" />
+    </modules>
+  </component>
+</project>

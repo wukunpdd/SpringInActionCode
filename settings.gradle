@@ -1,0 +1,5 @@
+rootProject.name = 'SpringInActionCode'
+include 'bean-autoconfig'
+include 'bean-javaconfig'
+include 'bean-xmlconfig'
+
