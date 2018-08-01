@@ -51,7 +51,7 @@ public class DataSourceConfigTest {
 
     @Test
     public void shouldBeEmbeddedDatasource() {
-      // should be null, because there isn't a datasource configured in JNDI
+      // 应该为null，因为JNDI中没有配置数据源
       assertNull(dataSource);
     }
   }
