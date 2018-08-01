@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" group="bean-xmlconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional.iml" group="conditional" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" group="conditional" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" group="conditional" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" group="profile" />

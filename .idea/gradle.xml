@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/bean-autoconfig" />
             <option value="$PROJECT_DIR$/bean-javaconfig" />
             <option value="$PROJECT_DIR$/bean-xmlconfig" />
+            <option value="$PROJECT_DIR$/conditional" />
             <option value="$PROJECT_DIR$/profile" />
           </set>
         </option>
