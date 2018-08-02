@@ -6,4 +6,5 @@ include 'profile'
 include 'conditional'
 include 'scopebeans'
 include 'externals'
+include 'aspect'
 

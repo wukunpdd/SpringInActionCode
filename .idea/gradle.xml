@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aspect" />
             <option value="$PROJECT_DIR$/bean-autoconfig" />
             <option value="$PROJECT_DIR$/bean-javaconfig" />
             <option value="$PROJECT_DIR$/bean-xmlconfig" />
