@@ -20,6 +20,8 @@
       <module name="scopebeans_test" target="1.8" />
       <module name="SpringInActionCode_main" target="1.8" />
       <module name="SpringInActionCode_test" target="1.8" />
+      <module name="test_main" target="1.8" />
+      <module name="test_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
