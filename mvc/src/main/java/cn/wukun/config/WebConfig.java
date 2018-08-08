@@ -28,6 +28,10 @@ public class WebConfig extends WebMvcConfigurerAdapter {
     configurer.enable();
   }
 
+  /**
+   * 增加对静态资源的支持
+   * @param registry
+   */
   @Override
   public void addResourceHandlers(ResourceHandlerRegistry registry) {
     registry.addResourceHandler("/**").addResourceLocations("/WEB-INF/view/");
