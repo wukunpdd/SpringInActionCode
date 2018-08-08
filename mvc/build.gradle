@@ -1,0 +1,32 @@
+group 'cn.wukun'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile("org.springframework:spring-webmvc:${springVersion}")
+    compile("javax.servlet:javax.servlet-api:$servletApiVersion")
+}
+
+task copyJars(type: Copy) {
+    // use gradle -PlibDir=/lib or -PserverLibdir=/tmp/lib
+    def libDir = project.file("/src/main/webapp/WEB-INF/lib")
+    if (project.hasProperty("libDir"))
+        libDir = file(project["libDir"])
+    if (project.hasProperty(project.name + "LibDir"))
+        libDir = file(project[project.name + "LibDir"])
+    def destination = libDir
+    from configurations.runtime
+    into destination
+    eachFile {
+        if (it.getRelativePath().getFile(destination).exists()) {
+            it.exclude()
+        }
+    }
+}

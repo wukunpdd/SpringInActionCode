@@ -14,6 +14,8 @@
       <module name="conditional_test" target="1.8" />
       <module name="externals_main" target="1.8" />
       <module name="externals_test" target="1.8" />
+      <module name="mvc_main" target="1.8" />
+      <module name="mvc_test" target="1.8" />
       <module name="profile_main" target="1.8" />
       <module name="profile_test" target="1.8" />
       <module name="scopebeans_main" target="1.8" />

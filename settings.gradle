@@ -7,4 +7,5 @@ include 'conditional'
 include 'scopebeans'
 include 'externals'
 include 'aspect'
+include 'mvc'
 

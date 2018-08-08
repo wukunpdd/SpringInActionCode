@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals.iml" filepath="$PROJECT_DIR$/.idea/modules/externals.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" group="externals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc.iml" group="mvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" group="mvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" group="mvc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" group="profile" />
