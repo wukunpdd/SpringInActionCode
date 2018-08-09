@@ -11,7 +11,8 @@ repositories {
 
 dependencies {
     compile("org.springframework:spring-webmvc:${springVersion}")
-    compile("javax.servlet:javax.servlet-api:$servletApiVersion")
+    compile("javax.servlet:javax.servlet-api:${servletApiVersion}")
+    compile("javax.servlet:jstl:${jstlVersion}")
 }
 
 task copyJars(type: Copy) {
@@ -29,4 +30,9 @@ task copyJars(type: Copy) {
             it.exclude()
         }
     }
+}
+
+task copyClasses(type: Copy){
+    from 'out/production/classes'
+    into 'src/main/webapp/WEB-INF/classes'
 }

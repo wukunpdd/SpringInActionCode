@@ -30,7 +30,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" group="scopebeans" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test.iml" group="test" />
     </modules>
   </component>
 </project>
