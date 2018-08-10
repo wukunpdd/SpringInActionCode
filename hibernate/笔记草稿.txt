@@ -1,0 +1,3 @@
+Spring中集成Hibernate
+    1.声明Hibernate的Session工厂，配置详细代码：HibernateConfig
+    2.根据SessionFactory去实现数据的访问代码：SipperDaoImpl
