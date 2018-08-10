@@ -8,4 +8,5 @@ include 'scopebeans'
 include 'externals'
 include 'aspect'
 include 'mvc'
+include 'jdbc'
 
