@@ -9,4 +9,5 @@ include 'externals'
 include 'aspect'
 include 'mvc'
 include 'jdbc'
+include 'hibernate'
 

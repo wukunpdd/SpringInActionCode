@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals.iml" filepath="$PROJECT_DIR$/.idea/modules/externals.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" group="externals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" group="hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" group="jdbc" />
