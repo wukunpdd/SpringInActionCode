@@ -10,4 +10,5 @@ include 'aspect'
 include 'mvc'
 include 'jdbc'
 include 'hibernate'
+include 'jpa-hibernate'
 

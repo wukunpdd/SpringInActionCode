@@ -27,6 +27,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" group="jdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate.iml" group="jpa-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_main.iml" group="jpa-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_test.iml" group="jpa-hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc.iml" group="mvc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" group="mvc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" group="mvc" />

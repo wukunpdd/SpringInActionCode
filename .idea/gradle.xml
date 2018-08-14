@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/externals" />
             <option value="$PROJECT_DIR$/hibernate" />
             <option value="$PROJECT_DIR$/jdbc" />
+            <option value="$PROJECT_DIR$/jpa-hibernate" />
             <option value="$PROJECT_DIR$/mvc" />
             <option value="$PROJECT_DIR$/profile" />
             <option value="$PROJECT_DIR$/scopebeans" />

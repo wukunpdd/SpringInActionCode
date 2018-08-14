@@ -18,6 +18,8 @@
       <module name="hibernate_test" target="1.8" />
       <module name="jdbc_main" target="1.8" />
       <module name="jdbc_test" target="1.8" />
+      <module name="jpa-hibernate_main" target="1.8" />
+      <module name="jpa-hibernate_test" target="1.8" />
       <module name="mvc_main" target="1.8" />
       <module name="mvc_test" target="1.8" />
       <module name="profile_main" target="1.8" />
