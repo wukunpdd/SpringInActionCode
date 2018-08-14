@@ -36,6 +36,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" group="profile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" group="repository" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" group="scopebeans" />

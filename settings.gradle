@@ -11,4 +11,5 @@ include 'mvc'
 include 'jdbc'
 include 'hibernate'
 include 'jpa-hibernate'
+include 'repository'
 

@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/jpa-hibernate" />
             <option value="$PROJECT_DIR$/mvc" />
             <option value="$PROJECT_DIR$/profile" />
+            <option value="$PROJECT_DIR$/repository" />
             <option value="$PROJECT_DIR$/scopebeans" />
           </set>
         </option>
