@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.cache.implementation:cache-ri-common:0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.cache.implementation/cache-ri-common/0.5/caecfcbf5c19bfb7f03a3fac87f552fe83b037c7/cache-ri-common-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.cache.implementation/cache-ri-common/0.5/e47875d92a424035fe147c7fab35f6325ef1b8b1/cache-ri-common-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

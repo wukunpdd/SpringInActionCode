@@ -12,4 +12,5 @@ include 'jdbc'
 include 'hibernate'
 include 'jpa-hibernate'
 include 'repository'
+include 'cache'
 

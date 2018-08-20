@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" group="bean-xmlconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache.iml" group="cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache_main.iml" group="cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache_test.iml" group="cache" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional.iml" group="conditional" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" group="conditional" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" group="conditional" />

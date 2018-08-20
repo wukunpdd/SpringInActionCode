@@ -10,6 +10,8 @@
       <module name="bean-javaconfig_test" target="1.8" />
       <module name="bean-xmlconfig_main" target="1.8" />
       <module name="bean-xmlconfig_test" target="1.8" />
+      <module name="cache_main" target="1.8" />
+      <module name="cache_test" target="1.8" />
       <module name="conditional_main" target="1.8" />
       <module name="conditional_test" target="1.8" />
       <module name="externals_main" target="1.8" />
