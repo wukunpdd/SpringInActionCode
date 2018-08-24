@@ -8,8 +8,6 @@
       <module name="bean-autoconfig_test" target="1.8" />
       <module name="bean-javaconfig_main" target="1.8" />
       <module name="bean-javaconfig_test" target="1.8" />
-      <module name="bean-xmlconfig_main" target="1.8" />
-      <module name="bean-xmlconfig_test" target="1.8" />
       <module name="cache_main" target="1.8" />
       <module name="cache_test" target="1.8" />
       <module name="conditional_main" target="1.8" />
@@ -32,8 +30,6 @@
       <module name="scopebeans_test" target="1.8" />
       <module name="SpringInActionCode_main" target="1.8" />
       <module name="SpringInActionCode_test" target="1.8" />
-      <module name="test_main" target="1.8" />
-      <module name="test_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

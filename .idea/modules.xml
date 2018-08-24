@@ -2,47 +2,45 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringInActionCode.iml" filepath="$PROJECT_DIR$/SpringInActionCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode_main.iml" group="SpringInActionCode" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringInActionCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringInActionCode_test.iml" group="SpringInActionCode" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspect.iml" filepath="$PROJECT_DIR$/.idea/modules/aspect.iml" group="aspect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspect/aspect.iml" filepath="$PROJECT_DIR$/.idea/modules/aspect/aspect.iml" group="aspect" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspect/aspect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aspect/aspect_main.iml" group="aspect" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspect/aspect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aspect/aspect_test.iml" group="aspect" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig.iml" group="bean-autoconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig.iml" group="bean-autoconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_main.iml" group="bean-autoconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-autoconfig/bean-autoconfig_test.iml" group="bean-autoconfig" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig.iml" group="bean-javaconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_main.iml" group="bean-javaconfig" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-javaconfig/bean-javaconfig_test.iml" group="bean-javaconfig" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-xmlconfig.iml" group="bean-xmlconfig" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache.iml" group="cache" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache_main.iml" group="cache" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache_test.iml" group="cache" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional.iml" group="conditional" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bean-xmlconfig/bean-xmlconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/bean-xmlconfig/bean-xmlconfig.iml" group="bean-xmlconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/cache.iml" group="cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional.iml" group="conditional" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_main.iml" group="conditional" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" filepath="$PROJECT_DIR$/.idea/modules/conditional/conditional_test.iml" group="conditional" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals.iml" filepath="$PROJECT_DIR$/.idea/modules/externals.iml" group="externals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_main.iml" group="externals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/externals/externals_test.iml" group="externals" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate.iml" group="hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate.iml" group="hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_main.iml" group="hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hibernate/hibernate_test.iml" group="hibernate" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.iml" group="jdbc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_main.iml" group="jdbc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc/jdbc_test.iml" group="jdbc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate.iml" group="jpa-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate.iml" group="jpa-hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_main.iml" group="jpa-hibernate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-hibernate/jpa-hibernate_test.iml" group="jpa-hibernate" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc.iml" group="mvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc.iml" group="mvc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_main.iml" group="mvc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc/mvc_test.iml" group="mvc" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile.iml" group="profile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_main.iml" group="profile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/profile_test.iml" group="profile" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository.iml" group="repository" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" group="repository" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" group="repository" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans.iml" group="scopebeans" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_main.iml" group="scopebeans" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scopebeans/scopebeans_test.iml" group="scopebeans" />
     </modules>
