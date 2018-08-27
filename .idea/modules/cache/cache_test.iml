@@ -18,6 +18,8 @@
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-entitymanager:5.0.12.Final" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-dbcp2:2.5.0" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:8.0.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context-support:4.3.18.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.ehcache:ehcache:2.10.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-core:4.3.18.RELEASE" level="project" />

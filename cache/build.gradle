@@ -19,6 +19,9 @@ dependencies {
     compile "org.hibernate:hibernate-entitymanager:$hibernateVersion"
     compile "org.apache.commons:commons-dbcp2:2.5.0"
     compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.12'
+
+    compile "org.springframework:spring-context-support:$springVersion"
+    compile "net.sf.ehcache:ehcache:$ehcacheVersion"
 }
 
 task copyJars(type: Copy) {
