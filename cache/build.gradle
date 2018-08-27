@@ -10,5 +10,35 @@ repositories {
 }
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile("org.springframework:spring-webmvc:${springVersion}")
+    compile("javax.servlet:javax.servlet-api:${servletApiVersion}")
+
+    compile "org.springframework:spring-context:$springVersion"
+    compile "org.springframework:spring-orm:$springVersion"
+    compile "org.springframework.data:spring-data-jpa:$springDataJpaVersion"
+    compile "org.hibernate:hibernate-entitymanager:$hibernateVersion"
+    compile "org.apache.commons:commons-dbcp2:2.5.0"
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.12'
+}
+
+task copyJars(type: Copy) {
+    // use gradle -PlibDir=/lib or -PserverLibdir=/tmp/lib
+    def libDir = project.file("/src/main/webapp/WEB-INF/lib")
+    if (project.hasProperty("libDir"))
+        libDir = file(project["libDir"])
+    if (project.hasProperty(project.name + "LibDir"))
+        libDir = file(project[project.name + "LibDir"])
+    def destination = libDir
+    from configurations.runtime
+    into destination
+    eachFile {
+        if (it.getRelativePath().getFile(destination).exists()) {
+            it.exclude()
+        }
+    }
+}
+
+task copyClasses(type: Copy){
+    from 'out/production/classes'
+    into 'src/main/webapp/WEB-INF/classes'
 }
