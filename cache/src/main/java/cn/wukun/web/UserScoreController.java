@@ -3,12 +3,10 @@ package cn.wukun.web;
 import cn.wukun.dao.UserScoreDao;
 import cn.wukun.domain.UserScore;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import java.awt.print.Pageable;
 import java.util.List;
 
 @Controller
@@ -25,7 +23,7 @@ public class UserScoreController {
 
     @RequestMapping("/data")
     public String testData(){
-        UserScore userScore = userScoreDao.findOneByUserId(14);
+        UserScore userScore = userScoreDao.getUserScoreByUserId(14);
         System.out.println("UserScore:"+userScore);
         return "test";
     }
@@ -39,6 +37,38 @@ public class UserScoreController {
             System.out.println("UserScore:"+userScore);
         }
 
+        return "test";
+    }
+
+    @RequestMapping("/getOneByUserName")
+    public String getOneByUserName(){
+        UserScore userScore = userScoreDao.getUserScoreByUserName("吴堃", 13);
+        System.out.println("UserScore:"+userScore);
+        return "test";
+    }
+
+    @RequestMapping("/delete")
+    public String delete(){
+        UserScore userScore = userScoreDao.getUserScoreByUserName("王楠", 14);
+        System.out.println("UserScore:"+userScore);
+
+        userScore = userScoreDao.getUserScoreByUserName("王楠", 14);
+        System.out.println("UserScore:"+userScore);
+
+        userScore = userScoreDao.getUserScoreByUserName("王楠", 14);
+        System.out.println("UserScore:"+userScore);
+
+        userScoreDao.delete(14);
+
+        userScore = userScoreDao.getUserScoreByUserName("王楠", 14);
+        System.out.println("UserScore:"+userScore);
+
+        return "test";
+    }
+
+    @RequestMapping
+    public String deleteCache(){
+        userScoreDao.delete(14);
         return "test";
     }
 }

@@ -6,6 +6,10 @@ import org.springframework.cache.concurrent.ConcurrentMapCacheManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * @CacheEvict 清除缓存
+ * @Cacheable 配置缓存
+ */
 @Configuration
 @EnableCaching
 public class CacheConfig {
